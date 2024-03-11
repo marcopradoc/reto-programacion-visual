@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "portal-proveedores", "portal-proveedores\portal-proveedores.csproj", "{1150001C-EFB7-412F-B712-E223F30B9C2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1150001C-EFB7-412F-B712-E223F30B9C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1150001C-EFB7-412F-B712-E223F30B9C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1150001C-EFB7-412F-B712-E223F30B9C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1150001C-EFB7-412F-B712-E223F30B9C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEE7F4D1-1C6D-407D-A49F-C0D4A6C1B08C}
+	EndGlobalSection
+EndGlobal
